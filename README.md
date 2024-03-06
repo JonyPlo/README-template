@@ -49,11 +49,11 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 
 ## ⚒️ Tecnologías implementadas
 
-[![HTML5-badge]][HTML5-url]
-[![CSS3-badge]][CSS3-url]
-[![Bootstrap-badge]][Bootstrap-url]
-[![GitHub-badge]][GitHub-url]
-[![Trello-badge]][Trello-url]
+[![HTML5-badge]][HTML5-url]<br>
+[![CSS3-badge]][CSS3-url]<br>
+[![Bootstrap-badge]][Bootstrap-url]<br>
+[![GitHub-badge]][GitHub-url]<br>
+[![Trello-badge]][Trello-url]<br>
 
 ## ✅ Requisitos
 
