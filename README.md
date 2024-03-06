@@ -3,8 +3,10 @@
   <a href="https://nexus-89i.netlify.app/">
     <img src="./img/nexus-logo.png" alt="Nexus" width="300" />
   </a>
+
   <h3>NEXUS</h3>
-  <p>
+
+  <p style='text-wrap: balance;'>
     Principal referente en Argentina en el ámbito de los videojuegos, NEXUS se destaca por ofrecer las más destacadas ofertas y descuentos en un amplio catálogo.
     <br />
     <a href="https://nexus-89i.netlify.app/">
@@ -12,9 +14,11 @@
     </a>
     <br />
     <br />
-    <a href="https://nexus-89i.netlify.app/">Report Bug</a>
+    <a href="https://nexus-89i.netlify.app/">Reportar un problema</a>
       ·
-    <a href="https://nexus-89i.netlify.app/">Request Feature</a>
+    <a href="https://nexus-89i.netlify.app/">Solicitar una mejora</a>
+      ·
+    <a href="https://nexus-89i.netlify.app/">Soporte</a>
   </p>
 </div>
 
@@ -24,7 +28,7 @@
 - [💻 Sobre NEXUS](#-sobre-nexus)
 - [⚒️ Tecnologías implementadas](#️-tecnologías-implementadas)
 - [✅ Requisitos](#-requisitos)
-- [💿 Instalación](#-instalación)
+- [💿 Instalación y uso](#-instalación-y-uso)
 - [🤝 Como contribuir](#-como-contribuir)
 - [👨‍💻 Autores](#-autores)
 - [📞 Contactanos](#-contactanos)
@@ -44,30 +48,23 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 
 ## ⚒️ Tecnologías implementadas
 
-<!-- Con Markdown -->
-
-* [![HTML5-badge]][HTML5-url]
-* [![CSS3-badge]][CSS3-url]
-* [![Bootstrap-badge]][Bootstrap-url]
-* [![GitHub-badge]][GitHub-url]
-* [![Trello-badge]][Trello-url]
-
-<!-- Con HTML -->
-<!-- <a href='https://getbootstrap.com/' style='display: block;'>
-  <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' />
-</a> -->
+[![HTML5-badge]][HTML5-url]
+[![CSS3-badge]][CSS3-url]
+[![Bootstrap-badge]][Bootstrap-url]
+[![GitHub-badge]][GitHub-url]
+[![Trello-badge]][Trello-url]
 
 ## ✅ Requisitos
 
-* Tener internet
-* Instalar git
-* Tener Visual Code
-* Instalar la extension "Live Server" para ejecutar el proyecto
+* Windows 10 o superior
+* Git
+* Visual Code
+* Extension "Live Server" para Visual Code
 
 > [!IMPORTANT]
 > Para que funcione el proyecto en su PC debe cumplir con **todos** los requisitos
 
-## 💿 Instalación
+## 💿 Instalación y uso
 
 * Clonar repositorio:
 
@@ -75,26 +72,28 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 git clone https://github.com/nexus/nexus-shop.git
 ```
 
-* Inicial el proyecto desde la rama `main`
+* Asegurarse que se encuentra en la rama `main`
+* Ejecutar el archivo `index.html` con la extension Live Server
+* Una vez iniciada la aplicacion, la misma se podra previsualizar en el siguiente link `http://127.0.0.1:5500/index.html`
 
 ## 🤝 Como contribuir
 
 Para contribuir, por favor seguir los siguientes pasos:
 
 1. Hacer un Fork del repositorio y clonarlo
-2. Crear una nueva rama `git checkout -b nueva-rama` desde `dev`
-3. Realizar los cambios y subirlos `git push origin nueva-rama`
+2. Crear desde la rama `dev` una nueva rama para comenzar `git checkout -b nueva-rama`
+3. Realizar los cambios y subirlos a su fork `git push origin nueva-rama`
 4. Solicitar un Pull Request a la rama `dev` del repositorio original
 
 ## 👨‍💻 Autores
 
 _Jonathan Plodzien_
-* [GitHub](https://github.com/JonyPlo)
-* [Twitter](https://twitter.com/JonyPlo)
+* GitHub: https://github.com/JonyPlo
+* Twitter: https://twitter.com/JonyPlo
 
 _Emilse Arias_
-* [GitHub](https://github.com/EmilArias)
-* [Twitter](https://twitter.com/EmiArias)
+* GitHub: https://github.com/EmilArias
+* Twitter: https://twitter.com/EmiArias
 
 ## 📞 Contactanos
 
@@ -106,17 +105,17 @@ Linkedin | https://www.linkedin.com/in/nexus
 
 ## 📄 Licencia
 
-Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.txt para obtener más información.
+Código y documentación copyright 2023-2024 de los autores de NEXUS. Distribuido bajo la licencia MIT. Consulte el archivo LICENSE.txt para obtener más información.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com/
 [HTML5-badge]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [HTML5-url]: https://html.com/
 [CSS3-badge]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS3-url]: https://www.w3.org/Style/CSS/
+[Bootstrap-badge]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com/
 [GitHub-badge]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [GitHub-url]: https://github.com/
 [Trello-badge]: https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white
-[Trello-url]: https://trello.com/
+[Trello-url]: https://trello.com/>
