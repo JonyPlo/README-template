@@ -60,12 +60,12 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 ## ✅ Requisitos
 
 - Tener internet
-- Tener git instalado
+- Instalar git
 - Tener Visual Code
-- Tener instalada la extension "Live Server"
+- Instalar la extension "Live Server" para ejecutar el proyecto
 
 > [!IMPORTANT]
-> Para que funcione el proyecto en su PC debe cumplir con todos los requisitos
+> Para que funcione el proyecto en su PC debe cumplir con **todos** los requisitos
 
 ## 💿 Instalación
 
