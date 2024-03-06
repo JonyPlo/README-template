@@ -4,7 +4,7 @@
     <img src="./img/nexus-logo.png" alt="Nexus" width="300" />
   </a>
 
-  <h3>NEXUS</h3>
+  <h1>NEXUS</h1>
 
   <p>
     Principal referente en Argentina en el ámbito de los videojuegos, NEXUS se destaca<br>
