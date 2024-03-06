@@ -89,12 +89,12 @@ Para contribuir, por favor seguir los siguientes pasos:
 ## 👨‍💻 Autores
 
 _Jonathan Plodzien_
-* [Twitter](https://twitter.com/mdo)
-* [GitHub](https://twitter.com/mdo)
+* [GitHub](https://github.com/JonyPlo)
+* [Twitter](https://twitter.com/JonyPlo)
 
 _Emilse Arias_
-* [Twitter](https://twitter.com/mdo)
-* [GitHub](https://twitter.com/mdo)
+* [GitHub](https://github.com/EmilArias)
+* [Twitter](https://twitter.com/EmiArias)
 
 ## 📞 Contactanos
 
