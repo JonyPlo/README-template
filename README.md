@@ -49,11 +49,13 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 
 ## ⚒️ Tecnologías implementadas
 
-[![HTML5-badge]][HTML5-url]
-[![CSS3-badge]][CSS3-url]
-[![Bootstrap-badge]][Bootstrap-url]
-[![GitHub-badge]][GitHub-url]
-[![Trello-badge]][Trello-url]
+|Tecnología|Version|
+|---|---|
+[![HTML5-badge]][HTML5-url] | **5**
+[![CSS3-badge]][CSS3-url] | **3**
+[![Bootstrap-badge]][Bootstrap-url] | **5.3**
+[![GitHub-badge]][GitHub-url] | **-**
+[![Trello-badge]][Trello-url] | **-**
 
 ## ✅ Requisitos
 
@@ -98,7 +100,7 @@ _Emilse Arias_
 
 ## 📞 Contactanos
 
-| Medio | Link |
+|Medio|Link|
 |---|---|
 Email | nexus@gmail.com
 Twitter | https://twitter.com/nexus
