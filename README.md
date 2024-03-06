@@ -100,9 +100,11 @@ _Emilse Arias_
 
 ## 📞 Contactanos
 
-- Email: nexus@gmail.com
-- Twitter: https://twitter.com/nexus
-- Linkedin: https://www.linkedin.com/in/nexus
+| Medio | Link |
+---|---
+Email | nexus@gmail.com
+Twitter | https://twitter.com/nexus
+Linkedin | https://www.linkedin.com/in/nexus
 
 ## 📄 Licencia
 
