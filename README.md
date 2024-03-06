@@ -91,20 +91,18 @@ Para contribuir, por favor seguir los siguientes pasos:
 ## 👨‍💻👩‍💻 Autores
 
 _Jonathan Plodzien_
-
-- [Twitter](https://twitter.com/mdo)
-- [GitHub](https://twitter.com/mdo)
+|-- [Twitter](https://twitter.com/mdo)
+|-- [GitHub](https://twitter.com/mdo)
 
 _Emilse Arias_
-
-- [Twitter](https://twitter.com/mdo)
-- [GitHub](https://twitter.com/mdo)
+|-- [Twitter](https://twitter.com/mdo)
+|-- [GitHub](https://twitter.com/mdo)
 
 ## 📞 Contactanos
 
-Email: nexus@gmail.com
-Twitter: https://twitter.com/nexus
-Linkedin: https://www.linkedin.com/in/nexus
+- Email: nexus@gmail.com
+- Twitter: https://twitter.com/nexus
+- Linkedin: https://www.linkedin.com/in/nexus
 
 ## 📄 Licencia
 
