@@ -1,11 +1,9 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://nexus-89i.netlify.app/">
-    <img src="./img/nexus-logo.png" alt="Nexus" width="300"">
+    <img src="./img/nexus-logo.png" alt="Nexus" width="300">
   </a>
-
   <h3>NEXUS</h3>
-
 <p>
   Tienda de video juegos líder en Argentina, con las mejores ofertas y descuentos
   <br />
@@ -34,7 +32,7 @@
 
 ## 💻 Sobre NEXUS
 
-![compragamer](/img/nexus-modified.png)
+![compragamer](/img/nexus.png)
 
 ¡Bienvenido a NEXUS, tu destino definitivo para la aventura digital en el mundo de los videojuegos! Situada en el vibrante corazón de Argentina, NEXUS es mucho más que una plataforma de compra de videojuegos; es tu puerta de entrada a un universo repleto de emociones y desafíos virtuales.
 
@@ -91,12 +89,12 @@ Para contribuir, por favor seguir los siguientes pasos:
 ## 👨‍💻👩‍💻 Autores
 
 _Jonathan Plodzien_
-|-- [Twitter](https://twitter.com/mdo)
-|-- [GitHub](https://twitter.com/mdo)
+* [Twitter](https://twitter.com/mdo)
+* [GitHub](https://twitter.com/mdo)
 
 _Emilse Arias_
-|-- [Twitter](https://twitter.com/mdo)
-|-- [GitHub](https://twitter.com/mdo)
+* [Twitter](https://twitter.com/mdo)
+* [GitHub](https://twitter.com/mdo)
 
 ## 📞 Contactanos
 
