@@ -26,13 +26,13 @@
 - [✅ Requisitos](#-requisitos)
 - [💿 Instalación](#-instalación)
 - [🤝 Como contribuir](#-como-contribuir)
-- [👨‍💻👩‍💻 Autores](#-autores)
+- [👨‍💻 Autores](#-autores)
 - [📞 Contactanos](#-contactanos)
 - [📄 Licencia](#-licencia)
 
 ## 💻 Sobre NEXUS
 
-![compragamer](/img/nexus-page.png)
+![Nexus](/img/nexus-page.png)
 
 ¡Bienvenido a NEXUS, tu destino definitivo para la aventura digital en el mundo de los videojuegos! Situada en el vibrante corazón de Argentina, NEXUS es mucho más que una plataforma de compra de videojuegos; es tu puerta de entrada a un universo repleto de emociones y desafíos virtuales.
 
@@ -46,11 +46,11 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 
 <!-- Con Markdown -->
 
-- [![HTML5-badge]][HTML5-url]
-- [![CSS3-badge]][CSS3-url]
-- [![Bootstrap-badge]][Bootstrap-url]
-- [![GitHub-badge]][GitHub-url]
-- [![Trello-badge]][Trello-url]
+* [![HTML5-badge]][HTML5-url]
+* [![CSS3-badge]][CSS3-url]
+* [![Bootstrap-badge]][Bootstrap-url]
+* [![GitHub-badge]][GitHub-url]
+* [![Trello-badge]][Trello-url]
 
 <!-- Con HTML -->
 <!-- <a href='https://getbootstrap.com/' style='display: block;'>
@@ -59,23 +59,23 @@ Sumérgete en el universo de NEXUS, donde la pasión por los videojuegos se encu
 
 ## ✅ Requisitos
 
-- Tener internet
-- Instalar git
-- Tener Visual Code
-- Instalar la extension "Live Server" para ejecutar el proyecto
+* Tener internet
+* Instalar git
+* Tener Visual Code
+* Instalar la extension "Live Server" para ejecutar el proyecto
 
 > [!IMPORTANT]
 > Para que funcione el proyecto en su PC debe cumplir con **todos** los requisitos
 
 ## 💿 Instalación
 
-- Clonar el repositorio con el siguiente comando:
+* Clonar repositorio:
 
 ```bash
 git clone https://github.com/nexus/nexus-shop.git
 ```
 
-- Inicial el proyecto desde la rama `main`
+* Inicial el proyecto desde la rama `main`
 
 ## 🤝 Como contribuir
 
@@ -86,7 +86,7 @@ Para contribuir, por favor seguir los siguientes pasos:
 3. Realizar los cambios y subirlos `git push origin nueva-rama`
 4. Solicitar un Pull Request a la rama `dev` del repositorio original
 
-## 👨‍💻👩‍💻 Autores
+## 👨‍💻 Autores
 
 _Jonathan Plodzien_
 * [Twitter](https://twitter.com/mdo)
