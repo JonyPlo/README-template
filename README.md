@@ -1,21 +1,21 @@
 <!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://nexus-89i.netlify.app/">
-    <img src="./img/nexus-logo.png" alt="Nexus" width="300">
+    <img src="./img/nexus-logo.png" alt="Nexus" width="300" />
   </a>
   <h3>NEXUS</h3>
-<p>
-  Principal referente en Argentina en el ámbito de los videojuegos, NEXUS se destaca por ofrecer las más destacadas ofertas y descuentos en un amplio catálogo.
-  <br />
-  <a href="https://nexus-89i.netlify.app/">
-    <strong>Explorar pagina »</strong>
-  </a>
-  <br />
-  <br />
-  <a href="https://nexus-89i.netlify.app/">Report Bug</a>
-    ·
-  <a href="https://nexus-89i.netlify.app/">Request Feature</a>
-</p>
+  <p>
+    Principal referente en Argentina en el ámbito de los videojuegos, NEXUS se destaca por ofrecer las más destacadas ofertas y descuentos en un amplio catálogo.
+    <br />
+    <a href="https://nexus-89i.netlify.app/">
+      <strong>Explorar pagina »</strong>
+    </a>
+    <br />
+    <br />
+    <a href="https://nexus-89i.netlify.app/">Report Bug</a>
+      ·
+    <a href="https://nexus-89i.netlify.app/">Request Feature</a>
+  </p>
 </div>
 
 ## 📋 Tabla de contenido
