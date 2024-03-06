@@ -32,7 +32,7 @@
 
 ## 💻 Sobre NEXUS
 
-![compragamer](/img/nexus.png)
+![compragamer](/img/nexus-page.png)
 
 ¡Bienvenido a NEXUS, tu destino definitivo para la aventura digital en el mundo de los videojuegos! Situada en el vibrante corazón de Argentina, NEXUS es mucho más que una plataforma de compra de videojuegos; es tu puerta de entrada a un universo repleto de emociones y desafíos virtuales.
 
