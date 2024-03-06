@@ -5,7 +5,7 @@
   </a>
   <h3>NEXUS</h3>
 <p>
-  Tienda de video juegos líder en Argentina, con las mejores ofertas y descuentos
+  Principal referente en Argentina en el ámbito de los videojuegos, NEXUS se destaca por ofrecer las más destacadas ofertas y descuentos en un amplio catálogo.
   <br />
   <a href="https://nexus-89i.netlify.app/">
     <strong>Explorar pagina »</strong>
